@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://hehebwaii.github.io/firebase-chat-app",
   "dependencies": {
-    // other dependencies
   },
   "scripts": {
     "start": "react-scripts start",
